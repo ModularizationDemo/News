@@ -13,8 +13,7 @@ target 'News' do
   pod 'SDWebImage','~> 3.7'
   pod 'MJRefresh', '~> 3.1.9'
   
-  pod 'Detail-Category', :path => '../Detail-Category'
-  
-  pod 'PhotoSet-Category', :path => '../PhotoSet-Category'
+  pod 'Detail-Category', '1'
+  pod 'PhotoSet-Category', '1'
   
 end

@@ -9,8 +9,8 @@
 #import "SXNewsTableViewPage.h"
 #import "SXNewsCell.h"
 #import "SXNewsViewModel.h"
-#import <Detail-Category/Lothar+Detail.h>
-#import <PhotoSet-Category/Lothar+PhotoSet.h>
+#import "Lothar+Detail.h"
+#import "Lothar+PhotoSet.h"
 #import <MJRefresh/MJRefresh.h>
 
 @interface SXNewsTableViewPage ()
