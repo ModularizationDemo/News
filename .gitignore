@@ -1,0 +1,7 @@
+News.xcodeproj/xcuserdata/
+News.xcworkspace/
+Pods/
+*.swp
+Podfile.lock
+.DS_Store
+News.xcodeproj/project.xcworkspace/xcuserdata/
